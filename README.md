@@ -2,7 +2,7 @@
 Xmas countdown timer - using javascript
 
 # Tutorial
-0:01:12 - Countdown Timer
+Florin Pop
 https://youtu.be/dtKciwk_si4
 
 # Run
